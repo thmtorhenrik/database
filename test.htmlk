@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eksempler på tagger</title>
+    <link rel="stylesheet" href="minstil.css">
+</head>
+<body>
+    <img src="bilder/fagstige.jpg" alt="Oversikt over studieretningen" align="right">
+    <h1>Tor Henrik Mikkelsgård</h1> 
+|<a href="1im/1im.html">1IM</a>
+| <a href="http://"></a>
+
+Hvorfor Informasjonsteknologi og medieproduksjon? 
+
+Informasjonsteknologi og medieproduksjon er et yrkesfag som gir elevene praktisk kunnskap om hvordan teknologi, kommunikasjon og design preger og utvikler samfunnet. Utdanningsprogrammet er praktisk og allsidig rettet mot arbeid i mediebransjen og IT.  
+
+Programmet passer for deg som er kreativ, liker å jobbe praktisk, er interessert i design, IT, nettverk og programmering samt visuelle uttrykksformer og kommunikasjon.
+</body>
+</html>
